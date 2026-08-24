@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exp5</string>
+    <string name="alert_count">🔔 %1$d</string>
+</resources>
